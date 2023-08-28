@@ -1,0 +1,28 @@
+.div{
+    color: rgb(0, 8, 255);
+    font-size: xx-large;
+}
+h1{
+    font-size: xx-large;
+    color: violet;
+}
+.outer {
+    height: 400px;
+    width: 400px;
+    background: red;
+    position: relative;
+    left: 35%;
+
+}
+
+.inner {
+
+    height: 200px;
+    width: 200px;
+    background: green;
+    position: relative;
+    left: 25%;
+    top: 25%;
+
+
+}
